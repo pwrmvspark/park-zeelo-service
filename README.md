@@ -2,6 +2,6 @@
 ___
 
 ## Technologies used:
-### Javascript | React | AWS S3 | Docker | Express | Node
+### Javascript | React | AWS S3 | Docker | Express | Node | MongoDB
 
 ![](https://media.giphy.com/media/H3qIK0XHgOii8BuemP/giphy.gif)
